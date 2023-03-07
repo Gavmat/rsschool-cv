@@ -13,7 +13,7 @@
     Version control: GIT, Github
      
 
-      Code example:
+    Code example:
 
     `function Fibonachi(n) {
     let numbers = [0, 1]
@@ -25,13 +25,13 @@
     } `
 
 
-     Courses:
+    Courses:
     Hexlet - JavaScript for beginner
     Udemy - Bogdan Stashchuk. JavaScript
     Udemy - React + Redux - Professional Development
 
 
-     Education:
+    Education:
     Nizhny Novgorod Technical University
 
  
